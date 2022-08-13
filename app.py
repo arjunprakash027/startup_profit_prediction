@@ -8,7 +8,7 @@ from blog_page import show_blog_page
 page = st.sidebar.radio("Select a page",
 ("intro",
 "explore", 
-"predict",))
+"predict"))
 
 if page == "predict":
     show_predict_page()
