@@ -16,7 +16,7 @@ if page == "predict":
 if page == "explore":
     show_explore_page()
 
-else:
+if page == "intro":
     show_blog_page()
 
     
