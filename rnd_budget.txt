@@ -1,0 +1,55 @@
+# RnD budget
+
+There is no more measurable part of an organization than the sales team. They have targets and quotas, and they either hit them, or they don’t. Close doesn’t count, their compensation model rewards results, and it’s easy to know who isn’t pulling their weight.
+
+Beyond sales, there are many other metrics for evaluating marketing programs’ performance, customer support interactions, and operational endeavors. Leads can be counted; customer satisfaction and response rates can be measures, logistics are trackable.
+
+But research and development can be challenging to quantify. There’s no direct, straight line between a research exercise and the balance sheet. Customer surveys don’t measure the efficiency of an implementation team. A new feature’s impact on revenue isn’t always evident.
+
+Yet research and development are essential to the long-term success of companies and their offerings.
+
+### Measuring R&D efficiency
+
+One way to measure R&D spending efficiency is by looking at Total Factor Productivity (TFP). This method subtracts “input”—i.e., research and development—from “output”—otherwise known as sales. If there’s any excess, that’s the ROI for R&D.
+
+But TFP isn’t a remarkably precise way of evaluating things, so Washington University of St. Louis professor [Anne Marie Knott devised the Research Quotient](https://www.machinedesign.com/automation-iiot/article/21836449/rd-spending-level-what-is-your-research-quotient). This far more comprehensive analysis of the total R&D costs identifies how much more money companies would make if they spent 1% more on R&D. A study of publicly traded companies showed 63% of companies were spending too much, while 33% weren’t spending enough.
+
+### How patient is your organization?
+
+By its very definition, R&D activities aren’t going to pay off immediately. [They’re an investment in future growth and opportunity.](https://www.productplan.com/long-term-roadmap-short-term-roadmap/) But the length of your company’s runway may dictate how long it’s willing to wait for a return.
+
+Hardware companies are used to things taking three-to-five years to pan out potentially. Auto manufacturers, aerospace, healthcare, and pharmaceutical companies have an even longer lead time, extended by rigorous testing and regulatory body approvals.
+
+But for software and tech firms, the runway is seldom that long, and executives, board members, and investors will be expecting results much sooner. During research and development activities can sometimes churn out quick wins that net real results in weeks or months, some other projects may be years in the making. That might be too far out for the folks calling the shots and paying the bills.
+
+**What your product roadmap can tell you about your R&D efficiency**
+
+Companies and their products need scalability to drive growth. If it costs just as much to bring on and support Customer #100 as it does Customer #2, then the business model is likely unsustainable. Investing in technology and process improvements that shrink the customer’s cost is key to profitability and customer acquisition and growth.
+
+If these types of enhancements, themes, and initiatives appear on the roadmap, research and development activities lead to more scalable operation opportunities. If they’re missing, then it’s likely there is still room for incremental improvement in this area. Research and development activities might focus too much on chasing after the next big thing while ignoring the current offering.
+
+When the roadmap shows lots of new capabilities and product extensions on the horizon, it’s indicative that research and development activities are more focused on building out new features to add customer value, attract new customers, or become more marketable different verticals. Investing in these areas shows a commitment to growing the addressable market or tackling significant shortcomings that may be hampering growth.
+
+Ideally, [product roadmaps should have a mix of both](https://www.productplan.com/align-strategy-with-product-roadmap-software/). You want research and development to be [innovating](https://www.productplan.com/rethinking-product-innovation/) while also improving what already exists. That balance is key to having a supportable, scalable solution while also branching out into new things. Skewing too far in either direction could impact growth for different reasons.
+
+However, suppose the product roadmap lacks either of these items and is instead cluttered with fixes, custom work for specific customers, or activities not linked to strategic goals. In that case, there’s either not enough research and development happening at all, or it’s not generating enough meaningful output. It can be tell-tale sign research and development isn’t prioritizing the right things, or only isn’t getting enough done due to a lack of productivity or inadequate staffing.
+
+## Justifying the investment
+
+Of course, product roadmaps are good for more than just serving as an early-warning system that research and development investments aren’t playing out as expected. They can also vindicate those activities and calm the nerves of anxious executives.
+
+Many CEOs don’t want to spend a lot on research and development because they worry about hitting this quarter’s numbers and keeping up with competitors. It’s easy to pull funding from activities with a delayed return to short-term goose results.
+
+But when the product roadmap illustrates that those projects will reach the market in the medium term, it can increase confidence at the executive level that the expense and delayed gratification is worth it. The product roadmap can also illustrate the links between those initiatives and the agreed-upon strategic goals and objectives, clearly depicting where planning and execution meet.
+
+**How do companies decide how much to allocate to their R&D budget?**
+
+1)That totally depends on the nature of their business. A company like Apple that is in a rapidly-evolving technology area can be expected to spend a lot. A grocery store that is in a different kind of business would spend a lot less.
+
+2)Apple is very successful in R&D efficiency, if you measure efficiency of R&D allocation as dollar of net income growth per dollar of R&D spending. One of the little known facts of both Steve Jobs and Tim Cook as managers is that they take a slim approach to R&D while still producing blockbuster new products that customers can't buy fast enough.
+
+3)
+
+Here is the 2017 data for the 15 companies out of the Dow Jones 30 that have R&D spending of more than 1% of revenue: 3M 6%, Apple 5%, Boeing 3%, Caterpillar 4%, Cisco 13%, DowDuPont 3%, GE 4%, IBM 7%, Intel 21%, Johnson&Johnson 14%, Merck 25%, Microsoft 15%, Pfizer 15%, Procter&Gamble 3%, United Technologies 4%. Clearly, pharmaceutical and computer/software related companies are at the higher end of the range.
+
+How important is the metric of R&D expense as percentage of revenue? What are its limitations? First of all, there is not a linear relationship between R&D spending and benefits, results depend on how much you spend, what you spend it on, and a mix between skill and luck. Companies could also grow through acquisition, buy a company that has progressed to a certain stage of development on its own, which for the acquiring company is mostly a balance sheet transaction involving intangible assets and goodwill. Different industries have different product development cycles: R&D spending today could lead to incremental revenue and margin next year, or five years from now, or ten years from now, or twenty years from now, if at all! Absolute $ versus relative % spend: as we saw with Apple, they spend a significant amount of money on R&D ($11.6 billion), but due to their high revenue, the percentage works out to be relatively small. Companies in the embryonic or growth stage of their development may have the opposite: a very high R&D expense % due to relatively low revenue (in the denominator). Innovation and business improvement in general can occur outside R&D. Lastly, there is R&D OpEx (expenses), and there is R&D CapEx (capital investments). R&D expense as percentage of revenue does not capture both. Hopefully this puts the discussion in perspective. R&D as percentage of revenue is an interesting metric, but like so many other metrics, it only tells part of the story!

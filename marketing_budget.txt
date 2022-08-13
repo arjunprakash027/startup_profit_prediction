@@ -1,0 +1,32 @@
+# Marketing budget
+
+# **How much should a startup spend on marketing?**
+
+Well, it depends. You may not personally be worried about the pounds and pence, dollars and cents. [Marketers aren’t necessarily budgeting experts](https://blog.spendesk.com/en/marketing-expenses), and the final say is going to come down to the CEO - or someone with “C-” in their job title.
+
+But you *are* going to be somewhat responsible for how the money is spent. So it’s important that you’re given a fair budget.
+
+[According to Wordstream](https://www.wordstream.com/blog/ws/2016/10/26/marketing-budget), there are two main factors in determining your marketing budget:
+
+1. **Know your (estimated or gross) annual revenue**. They suggest you make your marketing budget a percentage of revenue, so you need to know what you’re working with.
+2. **Factor in your company’s age**. Newer companies should allocate more to marketing, to help speed up growth.
+
+### **Startup marketing budget considerations**
+
+So, what should you even put into your budget?
+
+Once you've got the overall budget of your company's total revenue, you can break down the costs. Think of factors that will come up naturally in a marketer's day-to-day, and what resources you'll need to make that happen.
+
+You can put this information in a spreadsheet, or you can always use a template, **[like these free marketing offerings from HubSpot.](https://offers.hubspot.com/marketing-budget-templates?_ga=2.32788605.27990359.1584915918-940436819.1565181751&hubs_signup-url=blog.hubspot.com/marketing/startup-marketing-budget&hubs_signup-cta=like%20these%20free%20marketing%20offerings%20from%20HubSpot.&hubs_post=blog.hubspot.com/marketing/startup-marketing-budget&hubs_post-cta=like%20these%20free%20marketing%20offerings%20from%20HubSpot.)** There are no rules with budget design, as long as it's comprehensible and detailed enough to be useful.
+
+For instance, it'd be smart to include factors such as:
+
+- **Technology** — When you are creating campaigns, factor in the technology you need to use, such as software to build and maintain a product page.
+- **Research** — If you haven't yet discovered your target audience, you may need to invest in market research. This doesn't have to be an expenditure if you don't have the resources, though. For instance, this post shows you how to **[conduct market research yourself.](https://blog.hubspot.com/marketing/market-research-buyers-journey-guide?_ga=2.37410915.27990359.1584915918-940436819.1565181751)**
+- **Automation** — Services exist to automate most of the marketing process for you, like organizing leads and website management. This can be advantageous to businesses who don't have the resources to spend money on extra hands to complete projects.
+- **Production** — In this category, note any expenses for what you need to create marketing messages, such as graphic design, photography, or videos. Instead of paying for multiple different services, you could hire a **[freelancer](https://blog.hubspot.com/marketing/find-manage-freelancers?_ga=2.37410915.27990359.1584915918-940436819.1565181751)** to fit these roles. They wouldn't be a permanent new addition, but could use their expertise in a pinch.
+- **Paid Advertising** — Are you planning to run ads on TV, radio, or online? This is the category where you factor in those costs. Remember, you can find figures on how much you can expect to **[](https://blog.hubspot.com/marketing/google-adwords-ppc)**spend on paid ads — take a look at our **[Advertising guide](https://blog.hubspot.com/marketing/advertising?_ga=2.37410915.27990359.1584915918-940436819.1565181751)** to explore prices on anything from PPC ads to social media ads.
+- **Branding** — These are assets you use to build the first impression of your company, like business cards, signs, billboard ads, or laptop stickers.
+- **Content Marketing** — This section will detail how much you're going to allocate to the content you will deliver. This is also an area where you don't need to shell out a ton — between automation services, like **[HubSpot](https://hubspot.com/?_ga=2.62095343.27990359.1584915918-940436819.1565181751)** or **[Sprout Social](http://sproutsocial.com/)**, and **[content ideas you can produce for free](https://blog.hubspot.com/marketing/social-media-content-ideas?_ga=2.62095343.27990359.1584915918-940436819.1565181751)**, you can flex your budget to fit your financial needs.
+- **Traditional Advertising** — If applicable to your business, make a section for traditional advertising methods. Paid advertising occurs mostly online, but traditional advertising refers to marketing efforts outside of that. Factors to include in this section are print, billboards, etc.
+- **Unexpected** — Things break, don't work, or sometimes take more time than projected. When you figure out your budget, be sure to plan for costs that may come up unexpectedly, such as extra fees from advertising.
